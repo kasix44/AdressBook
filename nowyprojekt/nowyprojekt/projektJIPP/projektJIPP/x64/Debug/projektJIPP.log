@@ -1,0 +1,62 @@
+﻿  main.cpp
+  projektJIPP.cpp
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xc6a that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xc78 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xc8b that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xf39 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xf4b that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xf98 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0xfa9 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1101 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x16a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x111a that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x175 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x111b that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1124 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x113d that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11bc that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11d5 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11d6 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11df that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11e7 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11ea that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1200 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1201 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x129a that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x12a0 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2082 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2097 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2177 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x21d1 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2293 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x229d that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2325 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2334 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x233f that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x234e that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x235e that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2365 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2385 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x23fe that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2407 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2419 that is illegal in the current source character set (codepage 65001).
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x16a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'projektJIPP.cpp')
+  
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x175 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'projektJIPP.cpp')
+  
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.cpp(105,34): warning C4101: 'e': unreferenced local variable
+  qrc_projektJIPP.cpp
+  moc_projektJIPP.cpp
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x16a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/moc/moc_projektJIPP.cpp')
+  
+C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\projektJIPP\projektJIPP.h(1,1): warning C4828: The file contains a character starting at offset 0x175 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/moc/moc_projektJIPP.cpp')
+  
+  projektJIPP.vcxproj -> C:\Users\weron\Downloads\nowyprojekt\nowyprojekt\projektJIPP\x64\Debug\projektJIPP.exe
